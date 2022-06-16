@@ -1,0 +1,28 @@
+.traffic {
+    background-color: darkslategrey;
+    width: 64px;
+    height: 178px;
+    border-radius: 5px;
+}
+
+.light {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    margin: 7px;
+    opacity: 1;
+    background-color: rgba(27, 31, 31, 0.15);
+    transition: all 1s;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: #08bf08;
+}
